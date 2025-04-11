@@ -61,7 +61,7 @@ https://nypost.com/us-news/feed/
 
 https://nypost.com/opinion/feed/
 
-##CBS News
+## CBS News
 
 Has an RSS feed listing at https://www.cbsnews.com/rss/
 
@@ -73,7 +73,7 @@ https://www.cbsnews.com/latest/rss/us
 
 https://moxie.foxnews.com/google-publisher/latest.xml
 
-##MSNBC
+## MSNBC
 
 https://feeds.nbcnews.com/msnbc/public/news
 
