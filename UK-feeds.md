@@ -16,7 +16,8 @@ https://openrss.org/www.thetimes.com/uk
 
 ## The Telegraph
 
-https://www.telegraph.co.uk/rss.xml
+The Telegraph have a feed, but it appears (Apr 2025) to be stuck in March 2025.
+You can find it at https://www.telegraph.co.uk/rss.xml
 
 ## The Guardian
 
@@ -28,10 +29,6 @@ https://www.theguardian.com/index/contributors/rss
 ## The i
 
 https://inews.co.uk/feed
-https://inews.co.uk/category/news/analysis/feed
-https://inews.co.uk/category/opinion/comment/feed
-https://inews.co.uk/category/opinion/columnists/feed
-https://inews.co.uk/category/opinion/feed
 
 ## The Independent
 
