@@ -10,9 +10,9 @@ So far I have feed lists for two countries:
 
 ## UK:
 
-[./UK-feeds.md]
+[./UK-feeds.md](UK news feed list)
 
 ## USA
 
-[./US-feeds.md]
+[./US-feeds.md](USA news feed list)
 
