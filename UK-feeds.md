@@ -18,8 +18,11 @@ https://openrss.org/www.thetimes.com/uk
 
 ## The Telegraph
 
-The Telegraph have a feed, but it appears (Apr 2025) to be stuck in March 2025.
-You can find it at https://www.telegraph.co.uk/rss.xml
+https://www.telegraph.co.uk/rss.xml
+
+https://www.telegraph.co.uk/news/rss.xml
+
+https://www.telegraph.co.uk/politics/rss.xm
 
 ## The Guardian
 
