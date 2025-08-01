@@ -111,3 +111,11 @@ https://www.standard.co.uk/news/rss
 
 https://www.standard.co.uk/rss
 
+## City AM
+
+https://www.cityam.com/feed/
+
+## Metro
+
+https://metro.co.uk/feed/
+
