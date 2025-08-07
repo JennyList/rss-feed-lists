@@ -119,3 +119,7 @@ https://www.cityam.com/feed/
 
 https://metro.co.uk/feed/
 
+## GB News
+
+https://www.gbnews.com/feeds/news.rss
+
