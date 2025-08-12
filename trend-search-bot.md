@@ -2,7 +2,7 @@
 
 You've probably found your way here because you've found this URL in a user agent string. This is the explanation page for the bot used to gather a research corpus for [Jenny List's word trend analysis tool](https://github.com/JennyList/word-trend-analysis)
 
-trend-search-bot/1.0 ( github.com/JennyList/rss-feed-lists/trend-search-bot](https://github.com/JennyList/rss-feed-lists/blob/main/trend-search-bot.md )
+trend-search-bot/1.0 ( Morre info at github.com/JennyList/rss-feed-lists/trend-search-bot](https://github.com/JennyList/rss-feed-lists/blob/main/trend-search-bot.md )
 
 ## What is it doing?
 
