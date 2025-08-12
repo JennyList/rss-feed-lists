@@ -10,4 +10,4 @@ Gathering meta data from news stories to create and maintain a research corpus f
 
 ## What is it NOT doing?
 
-Generative AI. Jenny is not in the Ai business.
+Generative AI. Jenny is not in the AI business.
